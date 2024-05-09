@@ -1,4 +1,16 @@
-# 👋 Hi there! I'm Satish Kumar
+# 👋 Hi, I’m @sisodhiyasatish (SATISH)
+
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/sisodhiyasatish">
+  <img src="https://profile-counter.glitch.me/sisodhiyasatish/count.svg" />
+  </a>
+</p>
+<a style="" href="https://github.com/sisodhiyasatish">
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
+</a>
+
 
 Here are some ideas to get you started:
 
