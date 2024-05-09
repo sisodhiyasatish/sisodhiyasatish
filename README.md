@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sisodhiyasatish (SATISH)
+# 👋 Hi, I’m @sisodhiyasatish (Satish)
 
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
